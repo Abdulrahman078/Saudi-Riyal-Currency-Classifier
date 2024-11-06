@@ -29,12 +29,6 @@ cd <repository-directory>
 pip install -r requirements.txt
 ```
 
-## Usage
-Run the classifier with the following command:
-```bash
-python classifier.py
-```
-
 ## Model Architecture
 The CNN model includes three convolutional layers with batch normalization and max pooling, followed by two fully connected layers. It is trained using the Adam optimizer with a CrossEntropy loss function.
 
@@ -44,8 +38,6 @@ The model achieves high accuracy in classifying the Saudi Riyal denominations, w
 ## Contributing
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 Thank you to all contributors and Umm Al-Qura University's Computer Science & Artificial Intelligence Department for their support in this project.
