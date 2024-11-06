@@ -21,13 +21,6 @@ This project uses a Convolutional Neural Network (CNN) to classify Saudi Riyal c
 ## Dataset
 The model is trained on a balanced dataset consisting of images for the sixth issue of the Saudi Arabian currency banknotes. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/gfbati/alfloos/data).
 
-## Setup and Installation
-Clone the repository and install the required Python packages:
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-```
 
 ## Model Architecture
 The CNN model includes three convolutional layers with batch normalization and max pooling, followed by two fully connected layers. It is trained using the Adam optimizer with a CrossEntropy loss function.
