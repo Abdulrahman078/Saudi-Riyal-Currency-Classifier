@@ -30,7 +30,3 @@ The model achieves an accuracy of 78% in classifying the Saudi Riyal denominatio
 
 ## Contributing
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-
-## Acknowledgements
-Thank you to all contributors and Umm Al-Qura University's Computer Science & Artificial Intelligence Department for their support in this project.
