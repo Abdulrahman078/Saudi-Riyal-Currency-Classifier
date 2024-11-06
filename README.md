@@ -26,7 +26,7 @@ The model is trained on a balanced dataset consisting of images for the sixth is
 The CNN model includes three convolutional layers with batch normalization and max pooling, followed by two fully connected layers. It is trained using the Adam optimizer with a CrossEntropy loss function.
 
 ## Results
-The model achieves high accuracy in classifying the Saudi Riyal denominations, with detailed performance metrics available in the final report.
+The model achieves an accuracy of 78% in classifying the Saudi Riyal denominations, with detailed performance metrics available in the final report.
 
 ## Contributing
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
